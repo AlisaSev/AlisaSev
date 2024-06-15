@@ -1,6 +1,6 @@
-<h2 style="color: #4b0082;">Hi, I'm Alisa 👋</h2>
+<h2 style="color: #4b0082;">Hi there!👋</h2>
 
-<p style="font-size: 18px; color: #2e8b57;">I'm an enthusiastic Full-Stack Software Engineer with a passion for problem-solving and delivering innovative solutions to each project. 🚀</p>
+<p style="font-size: 18px; color: #2e8b57;">I'm an enthusiastic Full-Stack Software Engineer with a passion for problem-solving and delivering innovative solutions to each project. Let's connect and create something amazing together 🚀</p>
 
 <p>📧 alisasevas@proton.me 🔗<a href="https://www.linkedin.com/alisasev" style="font-size: 14px; color: #2e8b57; text-decoration: none;" target="_blank">LinkedIn</a></p>
 
@@ -49,4 +49,4 @@ Los Angeles, CA<br>
     <li>Applied research findings to refine design solutions and improve user experiences.</li>
 </ul>
 
-<p style="font-size: 16px; color: #2e8b57;">I thrive on tackling complex challenges and collaborating on new projects! Let's connect and create something amazing together.</p>
+<p>Fun fact about me: In my childhood, I spent countless hours playing Sims and constantly hacking it for fun (yes, I used 'motherlode' and all those cheats)! 🎮💻 It sparked my early interest in coding and problem-solving.</p>
