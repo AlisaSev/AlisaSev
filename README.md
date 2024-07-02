@@ -25,15 +25,16 @@ Los Angeles, CA<br>
 03/2024 – Present</p>
 
 <ul>
-    <li>Developed responsive interfaces using React, HTML, CSS, and JavaScript.</li>
-    <li>Led UI improvements, implementing best practices for a more intuitive interface.</li>
-    <li>Improved legacy code to enhance user satisfaction and developed new UI features.</li>
-    <li>Integrated third-party APIs like Stripe for secure payment processing.</li>
-    <li>Optimized database operations by creating SQL stored procedures.</li>
-    <li>Debugged backend processes to reduce API errors by 20%.</li>
-    <li>Implemented efficient routing solutions for better navigation and UX.</li>
-    <li>Refactored front-end code for improved performance and maintainability.</li>
-    <li>Translated mockups into interactive code aligning with client visions.</li>
+    <li>Engineered responsive interfaces using React, HTML, CSS, and JavaScript.</li>
+    <li>Led UI enhancements, streamlining navigation and boosting user satisfaction by 15%.</li>
+    <li>Improved legacy code from the previous development team to enhance user satisfaction.</li>
+    <li>Developed new UI features, aligning with client requests and improving service adoption.</li>
+    <li>Integrated third-party APIs, such as Stripe, for secure payment processing.</li>
+    <li>Created SQL stored procedures and integrated them with .NET applications, optimizing database operations.</li>
+    <li>Debugged backend processes to resolve API errors, reducing error rates by 20% and ensuring seamless event updates.</li>
+    <li>Implemented efficient routing solutions to enhance navigation and user experience.</li>
+    <li>Refactored and optimized front-end codebases for better performance, clarity, and maintainability.</li>
+    <li>Translated mockups into high-quality, interactive code, aligning with client visions.</li>
 </ul>
 
 <h4>UX Designer</h4>
@@ -42,11 +43,11 @@ Los Angeles, CA<br>
 03/2021 – 02/2024</p>
 
 <ul>
-    <li>Conducted qualitative research including user interviews and surveys.</li>
-    <li>Implemented WordPress for content-driven websites at a cybersecurity company.</li>
-    <li>Used Figma and Adobe Creative Cloud for design assets contributing to project success.</li>
-    <li>Developed and maintained design systems and guidelines for consistency.</li>
-    <li>Applied research findings to refine design solutions and improve user experiences.</li>
+    <li>Conducted qualitative research, including user interviews and surveys, to gather insights and inform design decisions.</li>
+    <li>Managed WordPress websites, ensuring ease of content management for clients and reducing maintenance requests by 20%.</li>
+    <li>Designed visually compelling and functional assets using Figma and Adobe Creative Cloud, contributing to timely project deliveries.</li>
+    <li>Developed and maintained design systems, ensuring consistency and efficiency across UX projects.</li>
+    <li>Applied research findings to refine design solutions, resulting in more intuitive interfaces and improved user retention.</li>
 </ul>
 
 <p>Fun fact about me: In my childhood, I spent countless hours playing Sims and constantly hacking it for fun (yes, I used 'motherlode' and all those cheats)! 🎮💻 It sparked my early interest in coding and problem-solving.</p>
