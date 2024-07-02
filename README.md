@@ -50,4 +50,6 @@ Los Angeles, CA<br>
     <li>Applied research findings to refine design solutions, resulting in more intuitive interfaces and improved user retention.</li>
 </ul>
 
+<hr>
+
 <p>Fun fact about me: In my childhood, I spent countless hours playing Sims and constantly hacking it for fun (yes, I used 'motherlode' and all those cheats)! 🎮💻 It sparked my early interest in coding and problem-solving.</p>
