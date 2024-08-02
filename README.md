@@ -50,15 +50,13 @@ Los Angeles, CA<br>
     <li>Applied research findings to refine design solutions, resulting in more intuitive interfaces and improved user retention.</li>
 </ul>
 <h3 style="color: #2e8b57;">Projects</h3>
-<ul>
 <h4>LA Data Project</h4>
-<p>June 2024 - Present</p>  
-Developing a front-end interface for an app that connects individuals in need with food resources across LA County.</ul>
-
+<p><em>June 2024 - Present</em><br>
+Developing a front-end interface for an app that connects individuals in need with food resources across LA County.</p>
 <h4>Omni Soul</h4>
-https://www.omnisoul.co/
-<p>Summer 2022</p>  
-A dynamic and responsive platform built using JavaScript, CSS, HTML5, and WordPress to provide an engaging userexperience and easy content management.
+<p><em>Summer 2022</em><br>
+A dynamic and responsive platform built using JavaScript, CSS, HTML5, and WordPress to provide an engaging user experience and easy content management.<br>
+🔗 <a href="https://www.omnisoul.co/" style="color: #2e8b57; text-decoration: none;" target="_blank">Visit Omni Soul</a></p>
 <hr>
 
 <p>Fun fact about me: In my childhood, I spent countless hours playing Sims and constantly hacking it for fun (yes, I used 'motherlode' and all those cheats)! 🎮💻 It sparked my early interest in coding and problem-solving.</p>
