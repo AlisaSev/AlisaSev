@@ -2,7 +2,7 @@
 
 <p style="font-size: 18px; color: #2e8b57;">I'm an enthusiastic Full-Stack Software Engineer with a passion for problem-solving and delivering innovative solutions to each project. Let's connect and create something amazing together 🚀</p>
 
-<p>📧 alisasevas@proton.me 🔗<a href="https://www.linkedin.com/alisasev" style="font-size: 14px; color: #2e8b57; text-decoration: none;" target="_blank">LinkedIn</a></p>
+<p>📧 alisasevas@proton.me 🔗<a href="https://www.linkedin.com/in/alisasev" style="font-size: 14px; color: #2e8b57; text-decoration: none;" target="_blank">LinkedIn</a></p>
 
 <hr>
 
