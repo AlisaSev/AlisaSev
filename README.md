@@ -25,6 +25,7 @@ Los Angeles, CA<br>
 August 2024 – Current</p>
 
 <ul>
+    LADP is a project aimed at helping individuals in need find food and supplies across Los Angeles. 
     <li>Created design concepts and developed both front-end and back-end systems using React, JavaScript, .NET, MS SQL, C#, and REST APIs to deliver a seamless user experience.</li>
     <li>Established front-end and back-end connections by configuring models, controllers, and services, ensuring effective communication between SQL database and React application.</li>
     <li>Followed Agile methodologies, engaging in sprints and stand-ups to ensure smooth and timely project delivery.</li>
@@ -38,6 +39,7 @@ Los Angeles, CA<br>
 March 2024 – August 2024</p>
 
 <ul>
+    Tabi is an app that enhances the experience at events, coffee shops, and bars by removing the need to wait in line.
     <li>Engineered responsive interfaces using React, HTML5, CSS, and JavaScript.</li>
     <li>Upgraded legacy code to enhance performance and reduce maintenance costs.</li>
     <li>Developed new UI features, aligning with client requests and increasing service adoption.</li>
