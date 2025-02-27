@@ -1,17 +1,16 @@
-<h2 style="color: #4b0082;">Hi there!👋</h2>
-
-<p style="font-size: 18px; color: #2e8b57;">I'm an enthusiastic Full-Stack Software Engineer with a passion for problem-solving and delivering innovative solutions to each project. Let's connect and create something amazing together 🚀</p>
-
-<p>📧 alisasevas@proton.me 🔗<a href="https://www.linkedin.com/in/alisasev" style="font-size: 14px; color: #2e8b57; text-decoration: none;" target="_blank">LinkedIn</a></p>
+<h2 style="color: #4b0082;">Alisa Sevastianova</h2>
+<p style="font-size: 18px; color: #2e8b57;">Full Stack Software Engineer</p>
+<p>📧 <a href="mailto:alisasevas@proton.me" style="font-size: 14px; color: #2e8b57; text-decoration: none;">alisasevas@proton.me</a> | 📱 (626) 217-0702 | 
+   <a href="https://github.com" style="font-size: 14px; color: #2e8b57; text-decoration: none;" target="_blank">GitHub</a> | 
+   <a href="https://www.linkedin.com/in/alisasev" style="font-size: 14px; color: #2e8b57; text-decoration: none;" target="_blank">LinkedIn</a></p>
 
 <hr>
 
 <h3 style="color: #2e8b57;">Skills</h3>
-
 <ul>
-    <li><strong>FRONTEND:</strong> JavaScript, React, HTML5, CSS, jQuery, Ajax, Bootstrap, WordPress</li>
-    <li><strong>BACKEND / MIDDLE TIER:</strong> C#, ASP.NET Core, ADO.NET, SQL Server, RESTful API, Node.js</li>
-    <li><strong>TOOLS & IDES:</strong> Visual Studio, Git, Bash, Postman, Trello, Figma, Zeplin, Adobe Creative Cloud, Miro, Jira</li>
+    <li><strong>FRONTEND:</strong> JavaScript, React, React Native, HTML, CSS, jQuery, Ajax, Bootstrap, WordPress, D3.js</li>
+    <li><strong>BACKEND / MIDDLE TIER:</strong> C#, ASP.NET Core, ADO.NET, Python, Microsoft SQL Server, RESTful API, Node.js</li>
+    <li><strong>TOOLS & IDES:</strong> Visual Studio, Git, Bash, Postman, Trello, Figma, Zeplin, Adobe Creative Cloud, Miro, Jira, Jenkins</li>
     <li><strong>SOFT SKILLS:</strong> Self-Directed Learning, Agile Methodology, Effective Communication, Organized Code Management</li>
 </ul>
 
@@ -20,44 +19,30 @@
 <h3 style="color: #2e8b57;">Experience</h3>
 
 <h4>Full-Stack Software Engineer</h4>
-<p><em>Los Angeles Data Project</em><br>
-Los Angeles, CA<br>
-August 2024 – Current</p>
-
+<p><em>Los Angeles Data Project</em><br>Los Angeles, CA<br>August 2024 – Current</p>
 <ul>
-    LADP is a project aimed at helping individuals in need find food and supplies across Los Angeles. 
-    <li>Created design concepts and developed both front-end and back-end systems using React, JavaScript, .NET, MS SQL, C#, and REST APIs to deliver a seamless user experience.</li>
-    <li>Established front-end and back-end connections by configuring models, controllers, and services, ensuring effective communication between SQL database and React application.</li>
-    <li>Followed Agile methodologies, engaging in sprints and stand-ups to ensure smooth and timely project delivery.</li>
-    <li>Actively participated in team discussions and project planning sessions to define objectives and drive feature development.</li>
-    <li>Utilized Git for version control, managing efficient collaboration and deployment processes.</li>
+    <li>Designed and implemented the "About Us" page showcasing the development team, using SQL, C#, .NET, and React to ensure seamless data integration and display.</li>
+    <li>Improved the calendar page by adding month navigation, refining the interface for better visibility, fixing layout issues, and enhancing accessibility with updated design elements.</li>
+    <li>Developed secure registration forms for user sign-up and login, ensuring robust data handling and backend integration.</li>
+    <li>Developed SQL stored procedures and configured models, controllers, and services in C# to establish effective communication between the SQL database and the React application, optimizing database operations.</li>
+    <li>Followed Agile methodologies, participating in sprints and daily stand-ups to ensure timely project delivery.</li>
+    <li>Used Git for version control, enabling efficient collaboration and smooth deployment processes.</li>
 </ul>
 
-<h4>Full-Stack Software Developer</h4>
-<p><em>Tabi Technologies</em><br>
-Los Angeles, CA<br>
-March 2024 – August 2024</p>
-
+<h4>Software Developer</h4>
+<p><em>Tabi Technologies</em><br>Los Angeles, CA<br>March 2024 – August 2024</p>
 <ul>
-    Tabi is an app that enhances the experience at events, coffee shops, and bars by removing the need to wait in line.
-    <li>Engineered responsive interfaces using React, HTML5, CSS, and JavaScript.</li>
-    <li>Upgraded legacy code to enhance performance and reduce maintenance costs.</li>
-    <li>Developed new UI features, aligning with client requests and increasing service adoption.</li>
-    <li>Integrated third-party APIs, such as Stripe, for secure and efficient payment processing.</li>
-    <li>Created SQL stored procedures and integrated them with .NET applications, optimizing database operations.</li>
-    <li>Debugged backend processes to resolve API errors, reducing error rates by 20% and ensuring seamless event updates.</li>
-    <li>Implemented efficient routing solutions to enhance navigation and user experience.</li>
-    <li>Refactored and optimized front-end codebases for better performance, clarity, and maintainability.</li>
-    <li>Translated mockups into high-quality, interactive code, aligning with client visions and improving overall design quality.</li>
-    <li>Utilized Git and GitHub for version control, ensuring code integrity and seamless collaboration across the development team.</li>
-    <li>Participated in Agile methodologies, including code reviews, daily stand-ups, and weekly sprints.</li>
+    <li>Developed a podcast page using SQL, .NET, JavaScript, and React, allowing users to find and listen to their favorite podcasts.</li>
+    <li>Implemented a video player into the user interface, enhancing content delivery and user engagement.</li>
+    <li>Established and organized REST APIs to fetch podcasts from the database and display them on the frontend.</li>
+    <li>Debugged backend processes, resolving API errors and reducing error rates by 20%.</li>
+    <li>Implemented optimized routing solutions to enhance navigation and the overall user experience.</li>
+    <li>Refactored and streamlined front-end codebases for better performance, clarity, and maintainability.</li>
+    <li>Managed version control with Git and GitHub.</li>
 </ul>
 
 <h4>UX Designer</h4>
-<p><em>Edge Services</em><br>
-Los Angeles, CA<br>
-January 2022 – February 2024</p>
-
+<p><em>Edge Services</em><br>Los Angeles, CA<br>January 2022 – February 2024</p>
 <ul>
     <li>Conducted qualitative research, including user interviews and surveys, and managed WordPress websites.</li>
     <li>Designed functional assets using Figma, Adobe Creative Cloud, contributing to timely project deliveries.</li>
@@ -71,11 +56,10 @@ January 2022 – February 2024</p>
 
 <h4>Omni Soul 🌐</h4>
 <p><em>Summer 2022</em><br>
-Built a dynamic and responsive platform using JavaScript, CSS, HTML5, and WordPress to provide an engaging user experience and easy content management.<br>
+Built a dynamic and responsive platform using JavaScript, CSS, HTML, and WordPress to provide an engaging user experience and easy content management.<br>
 🔗 <a href="https://www.omnisoul.co/" style="color: #2e8b57; text-decoration: none;" target="_blank">Visit Omni Soul</a></p>
-
 <ul>
-    <li>Participated in design planning.</li>
+    <li>Participated in building a dynamic and responsive platform.</li>
     <li>Organized the site structure to optimize navigation and user flow.</li>
 </ul>
 
