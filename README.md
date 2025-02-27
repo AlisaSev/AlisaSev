@@ -1,7 +1,5 @@
-<h2 style="color: #4b0082;">Alisa Sevastianova</h2>
-<p style="font-size: 18px; color: #2e8b57;">Full Stack Software Engineer</p>
+<h2>HEY THERE! I'm Full Stack Software Engineer with experience in UX/UI design.</h2>
 <p>📧 <a href="mailto:alisasevas@proton.me" style="font-size: 14px; color: #2e8b57; text-decoration: none;">alisasevas@proton.me</a> | 📱 (626) 217-0702 | 
-   <a href="https://github.com" style="font-size: 14px; color: #2e8b57; text-decoration: none;" target="_blank">GitHub</a> | 
    <a href="https://www.linkedin.com/in/alisasev" style="font-size: 14px; color: #2e8b57; text-decoration: none;" target="_blank">LinkedIn</a></p>
 
 <hr>
