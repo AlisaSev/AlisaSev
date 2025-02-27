@@ -1,4 +1,4 @@
-<h2>HEY THERE! I'm Full Stack Software Engineer with experience in UX/UI design.</h2>
+<h2>"Innovative Full Stack Engineer with UX/UI Expertise</h2>
 <p>📧 <a href="mailto:alisasevas@proton.me" style="font-size: 14px; color: #2e8b57; text-decoration: none;">alisasevas@proton.me</a> | 📱 (626) 217-0702 | 
    <a href="https://www.linkedin.com/in/alisasev" style="font-size: 14px; color: #2e8b57; text-decoration: none;" target="_blank">LinkedIn</a></p>
 
