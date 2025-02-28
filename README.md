@@ -1,9 +1,8 @@
-## 🚀 Innovative Full Stack Engineer with UX/UI Expertise
+## Full Stack Engineer with UX/UI Expertise
 
 Hi! I'm Alisa, a passionate **Full-Stack Software Engineer** with a strong background in **UX/UI Design**. I specialize in building responsive, scalable applications and optimizing user experiences. I love problem-solving and enjoy bringing creativity into my work.  
 
 📧 **Email:** [alisasevas@proton.me](mailto:alisasevas@proton.me)  
-📱 **Phone:** (626) 217-0702  
 🔗 **LinkedIn:** [linkedin.com/in/alisasev](https://www.linkedin.com/in/alisasev)  
 📄 **Portfolio:** IN PROGRESS... COMING SOON!
 
