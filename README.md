@@ -4,7 +4,7 @@ Hi! I'm Alisa, a passionate **Full-Stack Software Engineer** with a strong backg
 
 📧 **Email:** [alisasevas@proton.me](mailto:alisasevas@proton.me)  
 🔗 **LinkedIn:** [linkedin.com/in/alisasev](https://www.linkedin.com/in/alisasev)  
-📄 **Portfolio:** IN PROGRESS... COMING SOON!
+📄 **Portfolio:** https://asev.dev/
 
 ---
 
