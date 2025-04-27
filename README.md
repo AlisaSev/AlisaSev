@@ -2,7 +2,7 @@
 
 Hi! I'm Alisa, a passionate **Full-Stack Software Engineer** with a strong background in **UX/UI Design**. I specialize in building responsive, scalable applications and optimizing user experiences. I love problem-solving and enjoy bringing creativity into my work.  
 
-📧 **Email:** [alisasevas@proton.me](mailto:alisasevas@proton.me)  
+📧 **Email:** [alisa@asev.dev](mailto:alisa@asev.dev)  
 🔗 **LinkedIn:** [linkedin.com/in/alisasev](https://www.linkedin.com/in/alisasev)  
 📄 **Portfolio:** https://asev.dev/
 
