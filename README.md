@@ -10,8 +10,6 @@ I build responsive, scalable websites and apps, focusing on smooth user experien
 
 ## 📊 GitHub Stats  
 
-### **🔥 Overall GitHub Activity**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alisasev&show_icons=true&theme=tokyonight)
 
-### **🖥️ Most Used Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alisasev&layout=compact&theme=radical)
