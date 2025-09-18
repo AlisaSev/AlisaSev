@@ -1,4 +1,4 @@
-## Full-Stack Engineer with a strong eye for UX/UI
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=8B5CF6&width=600&lines=Full-Stack+Engineer;UX%2FUI+Enthusiast;Always+learning+%26+building)](https://git.io/typing-svg)
 
 I build responsive, scalable websites and apps, focusing on smooth user experiences and adding a creative touch to every project.
 
@@ -6,10 +6,18 @@ I build responsive, scalable websites and apps, focusing on smooth user experien
 🔗 **LinkedIn:** [linkedin.com/in/alisasev](https://www.linkedin.com/in/alisasev)  
 📄 **Portfolio / Resume:** https://asev.dev/
 
----
 
-## 📊 GitHub Stats  
+<div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alisasev&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alisasev&layout=compact&theme=radical)
+
+## 💻 Languages
+
+🟣 **TypeScript** ❤️  
+🟣 **JavaScript**  
+🟣 **Python**  
+🟣 **HTML**  
+🟣 **CSS**
+
+
+</div>
